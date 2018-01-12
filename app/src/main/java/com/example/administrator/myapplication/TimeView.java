@@ -7,14 +7,13 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.util.DisplayMetrics;
 import android.view.View;
 
 import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Created by Administrator on 2018/1/11.
+ * Created by ldx on 2018/1/11.
  */
 
 public class TimeView extends View {
