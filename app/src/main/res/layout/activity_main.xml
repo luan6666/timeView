@@ -29,7 +29,7 @@
         android:layout_weight="1"
         android:gravity="center"
         android:id="@+id/toNext"
-        android:text="进入倒计时页面"
+        android:text="进入倒计时页面,下一个页面是用kotlin写的,不支持的手机就别进去了,,,,,,,"
         android:textColor="#000000"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 </LinearLayout>
